@@ -1,7 +1,8 @@
 {
-	"firstSkill": "Базовая теория",
-	"secondSkill": "Что такое JSON, XML",
-	"thirdSkill": "VPN",
-	"fourthSkill": "ADB",
-	"fifthSkill": "Python"
+  "skills": [
+    "JSON",
+    "XML",
+    "VPN",
+    "ADB",
+    "Python"]
 }
